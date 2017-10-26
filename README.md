@@ -12,9 +12,7 @@ Organización de trabajo:
 - Utilizar etiquetas estructurales.
 - Utilizar etiquetas de sección.
 - Mínimo 4 artículos.
-- Navegador principal en cada html(se puede copiar de la branch master)
-
--->
+- Navegador principal en cada html(se puede copiar de la branch master)-->
 
 
 Realizado por: Alejandro Rodríguez, Javier García y Daniel Diego
