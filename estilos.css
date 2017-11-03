@@ -1,7 +1,5 @@
-.contenido{width: 800px; margin: 0 auto;}
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-
 
 body{
 margin:0 auto;
@@ -9,9 +7,10 @@ font-family: 'Roboto', sans-serif;
 padding-top: 20px
 }
 
+
 #contenedor{
 margin: 0 auto;
-width:70%;
+width:75%;
 }
 
 nav h2{
@@ -25,17 +24,37 @@ h1 {text-align: center;
 
 nav ul{ text-align: center; 
 	margin: 0px;
+	padding-left: 0px;
+	background-color:  #016CA2;
+	padding: 15px;
 	}
+
 
 nav{ padding-bottom: 100px;}
 
 nav li{
 	display: inline;
-	margin: 20px;	
+	padding: 10px;
+	border:1px solid #016CA2;
+	
 }
 
-a{
+nav a{
+	color: white;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 1.1em
+	
+}
+
+a:hover { 
+   color:#959595;
+   cursor: pointer;
+}
+
+a {
 	color: black;
+	text-decoration: none;
 }
 
 footer{padding-top: 20px;
@@ -51,5 +70,59 @@ input#botonSus{
 
 }
 
-#botonUser{background-image:url(img/icono_users.ico); }
+.barraInferior{
+	padding-top: 40px;
+}
 
+.volver{
+	background-color: #016CA2;
+	padding: 15px;	
+}
+
+footer{
+	background-color: #F2F2F2;
+
+}
+
+ #anclaInicio{
+	font-weight: 600;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+
+th{
+text-align: left;
+
+}
+
+td{
+	text-align: center;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.tituloSeccion{
+	color: #016CA2;
+	font-size: 26px;
+	border-bottom: 1px solid #016CA2;
+}
+
+.sinMargen{margin: 0px;
+
+}
+
+.titulo{ 
+font-size: 2.5em;
+ }
+
+ .subtitulo{
+font-size: 1.5em;
+ }
+
+ figure{
+text-align: center;
+padding:20px;
+ }
+ 
