@@ -1,0 +1,24 @@
+<!Doctype html>
+<html lang="es">
+  <head>
+    <title>Galician</title>
+    <meta charset="utf-8">  
+    <meta author="Alejandro R.">
+    <style type="text/css"></style>
+  </head>
+  <body>
+    <h1>Opinion</h1>
+    </article>
+      <nav>
+      <h2>Gürtel, el PP y el Estado</h2>
+      <figure>
+      <img src="Gurtel.jpg" width="500px" height="300px"><figcaption>Implicados en la trama gürtel con sus respectivas condenas</figcaption>
+      </figure>
+      
+                <p>El desafío independentista catalán está coincidiendo en el tiempo con uno de los logros significativos de la justicia.</p>
+                <p>El caso Gürtel es uno de los mayores y más vergonzosos escándalos de corrupción política de este país. Pero es también la muestra del funcionamiento correcto de un Estado de derecho en el que ni las maniobras políticas más groseras han sido capaces de torcer el brazo a la justicia.</p>
+                <p>El sumario de la pieza que ahora se juzga tiene un millón de folios y han sido necesarias 147 comisiones rogatorias. Pero, además, en estos ocho años de investigación, la Audiencia ha perfeccionado su tarea hasta mejorar la cooperación judicial (los datos de Suiza y Andorra han sido cruciales) y el uso de los datos bancarios para cercar la corrupción.</p>
+      </nav>
+      </article>
+  </body>
+</html>
