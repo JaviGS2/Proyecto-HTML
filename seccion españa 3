@@ -1,0 +1,23 @@
+<!Doctype html>
+<html lang="es">
+  <head>
+    <title>Galician</title>
+    <meta charset="utf-8"> 
+    <meta author="Alejandro R."> 
+    <style type="text/css"></style>
+  </head>
+
+  <body>
+  <h1>Noticia 1</h1>
+    <h2>España</h2>
+    <nav>
+    <h3>/h3>
+    <h3>El Senado de EEUU investiga la injerencia de Rusia en Cataluña</h3>
+    <figure>    
+    <img src="EEUU.jpg" width="500px" height="300px"><figcaption>santi vila</figcaption>
+    </figure>
+               <p>El Kremlin apunta a Cataluña. La gigantesca estrategia de desestabilización digital emprendida por Moscú y que alcanzó su cénit en las pasadas elecciones de EE UU ha dejado su huella en el conflicto secesionista. Así lo entienden dos miembros del Comité de Inteligencia del Senado de Estados Unidos, que al hilo de la investigación de la trama rusa abordaron esta intromisión en las comparecencias de los representantes de Facebook, Twitter y Google. “Sabemos que los rusos estuvieron involucrados en las elecciones francesas y alemanas, y ahora estamos descubriendo que también en la separación de España”, afirmó el senador independiente por Maine, Angus S. King.</p>
+
+<p>La maquinaria de injerencia rusa no tiene límite. Las investigaciones abiertas en Estados Unidos a raíz de la campaña del Kremlin contra Hillary Clinton están destapando un juego planetario de intoxicación y caos. El caso más conocido hasta la fecha fue la propia contienda electoral americana. El informe ICA 2017-01D de la Dirección Nacional de Inteligencia estableció que Vladímir Putin había ordenado una estrategia para “socavar la fe pública en el proceso democrático, denigrar a Clinton y dañar su elegibilidad y potencial presidencia”. Con este fin, Moscú orquestó, según el informe que firmaban la CIA, la NSA y el FBI, “una operación encubierta con apoyo de agencias gubernamentales, medios públicos, intermediarios, usuarios de redes y trolls digitales”.</p>
+  </body>
+</html>
