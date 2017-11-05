@@ -1,0 +1,22 @@
+<!Doctype html>
+<html lang="es">
+  <head>
+    <title>Galician</title>
+    <meta charset="utf-8"> 
+    <meta author="Alejandro R."> 
+    <style type="text/css"></style>
+  </head>
+
+  <body>
+  <h1>Noticia 1</h1>
+    <h2>España</h2>
+    <nav>
+    <h3>La audiencia nacional deja en libertad a santi vila</h3>
+    <figure>    
+    <img src="Santi via.jpg" width="500px" height="300px"><figcaption>santi vila</figcaption>
+    </figure>
+                <p>La audiencia nacional ha autorizado la puesta en libertad del ex conseller de Empresa de la Generalitat Santi Vila, que ha salido de prisión tras depositar la mañana de este viernes la fianza de 50.000 euros que la juez Carmen Lamela le reclamaba. "Estoy convencido que los demócratas del mundo no lo entienden", ha declarado al salir de la cárcel de Estremera de Madrid, donde ha pernoctado.</p>
+                <p>Vila es el único de los ex consellers que declararon el jueves que ha podido salir de prisión con una fianza porque la juez no ve riesgo de reiteración delictiva ya que "desistió voluntariamente de proseguir con el proceso soberanista" un día antes de la declaración de independencia.
+                <p>El ex conseller ha pasado la noche en la cárcel madrileña de Estremera junto a otros seis ex consellers para quienes la juez dictó prisión incondicional.</p>
+  </body>
+</html>
