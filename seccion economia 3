@@ -1,0 +1,20 @@
+<!Doctype html>
+<html lang="es">
+  <head>
+    <title>Galician</title>
+    <meta charset="utf-8">
+    <meta author="Alejandro R.">
+    <style type="text/css"></style> 
+  </head>
+  <body>
+    <h1>Economia</h1>
+    <nav>
+    <h2></h2>
+    <figure>
+    <img src="repsol.jpg" width="500px" height="300px"><figcaption>A la derecha, Antonio Brufau junto al consejero delegado, Josu Jon Imaz</figcaption>
+    </figure>
+                <p>Repsol ha obtenido en los primeros nueve meses de este año un beneficio neto de 1.583 millones de euros, un 41% más que en el mismo periodo de 2016, según ha comunicado la compañía petrolera a la Comisión Nacional del Mercado de Valores (CNMV). La empresa destaca que los resultados positivos logrados en lo que va de 2017 se deben a la fortaleza de su negocio, a su capacidad de adaptación a escenarios de precios bajos y "al éxito de los planes aplicados para incrementar su eficiencia". Entre enero y septiembre, el resultado bruto de explotación (Ebitda) creció un 32%, hasta alcanzar los 4.715 millones de euros.</p>
+                <p>Los precios medios de las materias primas de referencia internacional se mantuvieron en un rango bajo durante el periodo, aunque en septiembre el crudo Brent llegó a cotizar a 59 dólares por barril, cifra que no alcanzaba desde julio de 2015. De este modo, entre enero y septiembre el Brent cotizó a una media de 51,8 dólares por barril, mientras que el gas Henry Hub lo hizo a 3,2 dólares por Mbtu.</p>
+      </nav>
+  </body>
+</html>
