@@ -1,0 +1,26 @@
+<!Doctype html>
+<html lang="es">
+  <head>
+    <title>Galician</title>
+    <meta charset="utf-8"> 
+    <meta author="Alejandro R."> 
+    <style type="text/css"></style>
+  </head>
+
+  <body>
+  <h1>Noticia 1</h1>
+    <h2>España</h2>
+    <nav>
+    <h3>Las carreteras mas peligrosas de España</h3>
+    <figure>    
+    <img src="Carretera.jpg" width="500px" height="300px"><figcaption>Autonómica EX-A1 entre Coria y Moraleja.</figcaption>
+    </figure>
+                <p>La organización de defensa de los conductores Automovilistas Europeos Asociados ha hecho público el último informe sobre “Las carreteras más peligrosas de España’, elaborado en base a los datos disponibles del Ministerio de Fomento respecto a los 26.329 kilómetros de carreteras que están a su cargo.
+                </p>
+                <p>
+                Las conclusiones del documento señalan un incremento del 35% en el número de puntos negros respecto al estudio anterior. Concretamente, se ha pasado de 140 a 190.
+                Según el informe, el punto de mayor riesgo en España se encuentra en el kilómetro 358 de la N-122, en Valladolid: tiene un índice de peligrosidad 423 superior a la media nacional. En el periodo 2011-2015, allí se registraron 29 accidentes, con 42 víctimas entre heridos y fallecidos, pese a tratarse de una vía con un tráfico diario de apenas 349 vehículos.
+                </p>
+      </nav>
+  </body>
+</html>
