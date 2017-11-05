@@ -1,0 +1,20 @@
+<!Doctype html>
+<html lang="es">
+  <head>
+    <title>Galician</title>
+    <meta charset="utf-8">
+    <meta author="Alejandro R.">
+    <style type="text/css"></style> 
+  </head>
+  <body>
+    <h1>Economia</h1>
+    <nav>
+    <h2>Cataluña, la comunidad autónoma donde más creció el paro en octubre</h2>
+    <figure>
+    <img src="trabajadores.jpg" width="500px" height="300px"><figcaption>Unos obreros trabajando en Barcelona</figcaption>
+    </figure>
+                <p>Las advertencias de cómo afectará la crisis catalana a su economía y a la del resto de España se suceden día tras día. Un día llega el aviso de una agencia de calificación de deuda; otro lo lanza el Banco de España; antes el FMI había alertado de que la incertidumbre podía afectar al crecimiento… Todavía es pronto para sacar conclusiones definitivas, pero ya comienzan a aparecer indicios que apuntan a un enfriamiento y se suman a esas advertencias y a declaraciones de empresarios de diferentes sectores (hostelería, automóviles) señalando que la situación se empieza a notar.</p>
+                <p>Algunos esos indicios han aparecido en los datos que divulgó el Ministerio de Empleo sobre octubre. El mes pasado Cataluña lideró la subida del paro registrado en toda España. Hubo 14.698 más. Para encontrar un octubre peor, hay que remontarse a octubre de 2008, justo en el mes siguiente a la caída del Lehman Brothers hubo casi 24.000 desempleados más. En el conjunto del mercado laboral español, solo hay que remontarse hasta 2015</p>
+      </nav>
+  </body>
+</html>
