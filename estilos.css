@@ -139,11 +139,13 @@ overflow: hidden;
 padding: 20px;
 display: inline-block;
 width: 80%;
+border-bottom: 1px solid black;
 
  }
 .noticia figure{
 	margin:0px;
 	padding:0px;
+
 
  }
 
@@ -171,3 +173,8 @@ img{
 	overflow: hidden;
 }
 
+
+
+input{
+padding-bottom: 5px;
+}
