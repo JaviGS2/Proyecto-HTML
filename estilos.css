@@ -1,0 +1,172 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+margin:0 auto;
+font-family: 'Roboto', sans-serif;
+padding-top: 20px
+}
+
+
+#contenedor{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+nav h2{
+	display: none;
+}
+
+h1 {text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+nav ul{ text-align: center;
+	margin: 0px;
+	padding-left: 0px;
+	background-color:  #016CA2;
+	padding: 15px;
+	}
+
+
+nav{ padding-bottom: 60px;}
+
+nav li{
+	display: inline;
+	padding: 10px;
+	border:1px solid #016CA2;
+
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 1.1em
+
+}
+
+a:hover {
+   color:#959595;
+   cursor: pointer;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+footer{padding-top: 20px;
+	font-size: 12px;
+}
+
+input#botonSus{
+	background-color: #016CA2;
+	color: #FFFFFF;
+}
+
+#barra{ text-align: right;
+
+}
+
+.barraInferior{
+	padding-top: 13%;
+}
+
+.volver{
+	background-color: #016CA2;
+	padding: 15px;
+}
+
+footer{
+	background-color: #F2F2F2;
+
+}
+
+ #anclaInicio{
+	font-weight: 600;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+
+th{
+text-align: left;
+
+}
+
+td{
+	text-align: center;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.tituloSeccion{
+	color: #016CA2;
+	font-size: 26px;
+	border-bottom: 1px solid #016CA2;
+}
+
+.sinMargen{margin: 0px;
+
+}
+
+.titulo{
+font-size: 2.5em;
+margin-top: 0px;
+margin-bottom: 0px;
+
+
+ }
+
+ .subtitulo{
+font-size: 1.5em;
+
+ }
+
+ figure{
+text-align: center;
+padding:20px;
+overflow: hidden;
+ }
+
+
+ .noticia{
+padding: 20px;
+display: inline-block;
+width: 80%;
+
+ }
+.noticia figure{
+	margin:0px;
+	padding:0px;
+
+ }
+
+ .contenido{
+ 	width: 70%;
+ 	display: inline-block;
+
+ 	 }
+
+#contenedorAnuncios{
+	padding-top: 20px;
+	float: right;
+	text-align: right;
+	display: inline-block;
+	margin: 0 auto;
+  overflow: auto;
+ }
+
+ .anuncio{
+ 	padding: 0px;
+ 	margin: 0px;
+ }
+
+img{
+	overflow: hidden;
+}
